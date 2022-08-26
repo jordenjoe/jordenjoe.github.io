@@ -14,10 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jorden Jolley
+name                     : &name "Jorden Jolley"
 email: jorden.jolley@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: &description # this means to ignore newlines until "baseurl:"
   Jorden Jolley's software engineering portfolio.
 twitter_username: JordenJolley
+repository: "jordenjolley.github.io"
 github_username: jordenjoe
 minimal_mistakes_skin: dark
 search: true
@@ -58,6 +60,7 @@ plugins:
 author:
   name   : "Jorden Jolley"
   avatar : "/assets/images/bio-photo.jpg"
+  location: "New York, New York, USA"
   bio    : "MS Computer Science Bridge student at Columbia University in New York City."
   links:
     - label: "Website"
@@ -111,3 +114,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
