@@ -1,6 +1,6 @@
 ---
 title: "Women's Interest Network"
-excerpt: "Created a new site for the Women's Interest Network at ExxonMobil using . Created new theme for Women's History Month. <br/><img src='/assets/images/win_1.png'>"
+excerpt: "Created a new site for the Women's Interest Network at ExxonMobil using HTML/CSS/JS/XOM Unity. Created new theme for Women's History Month. <br/><img src='/assets/images/win_1.png'>"
 
 collection: portfolio
 ---

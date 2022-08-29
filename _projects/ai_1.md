@@ -4,9 +4,12 @@ excerpt: "Project topics included search problems, games, Markov decision proces
 collection: portfolio
 ---
 
-> Project topics included search problems, games, Markov decision processes, reinforcement learning, Bayesian Networks, Markov Models, and machine learning.<br/>Tech: Python. Primary libraries include matplotlib, heapq, pgmpy, scipy, numpy.
+> Project topics included search problems, games, Markov decision processes, reinforcement learning, Bayesian Networks, Markov Models, and machine learning.
 
 For more information, the course page is [here](https://tonydear.github.io/teaching/coms4701).
+
+Tech stack: Python. Primary libraries include matplotlib, heapq, pgmpy, scipy, numpy.
+
 
 <figure class="third">
 	<img src='/assets/images/ai_2.png'>

@@ -1,11 +1,9 @@
 ---
-title: "Integration Projects (2018-2021)"
+title: "Analyst Projects: Integrations"
 excerpt: "Designed and fabricated a supermileage vehicle from scratch including aluminum space-frame chassis, fiberglass body, powertrain, steering geometry, and safety subsystems. Noteworthy development included air-fuel mixture subsystem conversion from carbureted to electronic-fuel-injection. <br/><img src='/images/Supermileage1.JPG'>"
 
 collection: portfolio
 ---
-
-# XTO to UPST Domain Change - 2021
 
   * 2021 - Created WV - IPES SAP integration for Argentina division. collaborated with team in Argentina to create outline for their request and built out the entire SQL integration between Wellview and IPES. Managed deployment for users, impacting ~100 wells.
 
