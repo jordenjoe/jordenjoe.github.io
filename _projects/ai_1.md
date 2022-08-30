@@ -1,7 +1,10 @@
 ---
+layout: single
 title: "Artificial Intelligence: Various Projects"
 excerpt: "Project topics included search problems, games, Markov decision processes, reinforcement learning, Bayesian Networks, Markov Models, and machine learning.<br/>Tech: Python (primarily libraries such as matplotlib, heapq, pgmpy, scipy, numpy)"
 collection: portfolio
+header:
+  teaser: "/assets/images/ai_4.png"
 ---
 
 > Project topics included search problems, games, Markov decision processes, reinforcement learning, Bayesian Networks, Markov Models, and machine learning.

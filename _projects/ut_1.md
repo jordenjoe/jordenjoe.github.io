@@ -1,8 +1,9 @@
 ---
 title: "Greyhound Adoption Website"
-excerpt: "Project manager and Lead Developer for the Greyhound adoption website project in MIS 374, where our student team worked with a local business to create an ecommerce website. <br/><img src='/assets/images/win_1.png'>"
-
+excerpt: "Project manager and Lead Developer for the Greyhound adoption website project in MIS 374, where our student team worked with a local business to create an ecommerce website."
 collection: portfolio
+header:
+  teaser: "/assets/images/ut_1.png"
 ---
 
 > MIS 374 course teaches concepts and techniques related to the iterative software development lifecycle (SDLC) including planning, analysis, design, build, quality assurance, and implementation. The course also teaches topics such as client management, scope management, and risk management.

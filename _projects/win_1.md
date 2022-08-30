@@ -1,8 +1,9 @@
 ---
 title: "Women's Interest Network"
-excerpt: "Created a new site for the Women's Interest Network at ExxonMobil using HTML/CSS/JS/XOM Unity. Created new theme for Women's History Month. <br/><img src='/assets/images/win_1.png'>"
-
+excerpt: "Created a new site for the Women's Interest Network at ExxonMobil using HTML/CSS/JS/XOM Unity. Created new theme for Women's History Month."
 collection: portfolio
+header:
+  teaser: "/assets/images/win_1.png"
 ---
 
 I was the Site Collection Administrator and sole creator of the new Houston WIN website while I worked at ExxonMobil.

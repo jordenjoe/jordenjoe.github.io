@@ -1,7 +1,6 @@
 ---
 title: "Analyst Projects: Domain Upgrades, Reporting Projects, SSRS Conversions"
-excerpt: "Various projects, such as the XTO to UPST domain upgrade, reporting upgrades, and Crystal Reports to SSRS conversions. <br/><img src='/images/Supermileage1.JPG'>"
-
+excerpt: "Various projects, such as the XTO to UPST domain upgrade, reporting upgrades, and Crystal Reports to SSRS conversions."
 collection: portfolio
 ---
 ## XTO to UPST Domain Upgrade
