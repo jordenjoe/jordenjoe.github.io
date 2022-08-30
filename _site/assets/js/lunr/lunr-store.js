@@ -1,6 +1,6 @@
 var store = [{
         "title": "Artificial Intelligence: Various Projects",
-        "excerpt":"Project topics included search problems, games, Markov decision processes, reinforcement learning, Bayesian Networks, Markov Models, and machine learning. For more information, the course page is here. Tech stack: Python. Primary libraries include matplotlib, heapq, pgmpy, scipy, numpy. Results from a Linear Classifier Problem, UCB Bandit Problem, and a Sigmoid Values...","categories": [],
+        "excerpt":"Project topics included search problems, games, Markov decision processes, reinforcement learning, Bayesian Networks, Markov Models, and machine learning. Tech: Python. Primary libraries include matplotlib, heapq, pgmpy, scipy, numpy. For more information, the course page is here. Results from a Linear Classifier Problem, UCB Bandit Problem, and a Sigmoid Values Problem...","categories": [],
         "tags": [],
         "url": "/projects/ai_1/",
         "teaser": null
@@ -15,6 +15,12 @@ var store = [{
         "excerpt":"2021 - Created WV - IPES SAP integration for Argentina division. collaborated with team in Argentina to create outline for their request and built out the entire SQL integration between Wellview and IPES. Managed deployment for users, impacting ~100 wells. 2021 - Created SAP integration USA documentation (spreadsheet, diagrams, and...","categories": [],
         "tags": [],
         "url": "/projects/exxon_2/",
+        "teaser": null
+      },{
+        "title": "Greyhound Adoption Website",
+        "excerpt":"MIS 374 course teaches concepts and techniques related to the iterative software development lifecycle (SDLC) including planning, analysis, design, build, quality assurance, and implementation. The course also teaches topics such as client management, scope management, and risk management. As a project manager, led a team through a root cause analysis,...","categories": [],
+        "tags": [],
+        "url": "/projects/ut_1/",
         "teaser": null
       },{
         "title": "Women's Interest Network",
