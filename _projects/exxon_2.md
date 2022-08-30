@@ -1,7 +1,6 @@
 ---
 title: "Analyst Projects: Integrations"
 excerpt: "Wellview and Siteview Integration projects in SQL. <br/><img src='/images/Supermileage1.JPG'>"
-
 collection: portfolio
 ---
 
