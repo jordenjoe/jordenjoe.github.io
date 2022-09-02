@@ -17,7 +17,7 @@ I am currently seeking software engineering internships for summer 2023.
 Background 
 =====
 I was born and raised in Arlington, Texas.
-In 2018, I graduated from the University of Texas at Austin with a BBA in [Management Information Systems](https://www.mccombs.utexas.edu/faculty-and-research/departments/irom/degree-programs/undergraduate/mis/)
+In 2018, I graduated from the University of Texas at Austin with a BBA in [Management Information Systems](https://www.mccombs.utexas.edu/faculty-and-research/departments/irom/degree-programs/undergraduate/mis/). My goal is to create clean, data-driven software that serves people and makes their lives better.
 <br>
 During my time in college, I worked at [Girls Who Code](https://girlswhocode.com/) for two summers on the teaching team.
 I also worked as a software development intern at [SXSW.](https://www.sxsw.com/)
