@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Cloud Computing: AWS Restaurant Recommending Chatbot"
-excerpt: "Project topics included search problems, games, Markov decision processes, reinforcement learning, Bayesian Networks, Markov Models, and machine learning. Tech: AWS Lambda (Python), IAM, Lex, SQS, DynamoDB, S3"
+excerpt: "Created an AI chatbot which uses Yelp data to recommend restaurants to users based on their requirements. Tech: AWS Lambda (Python), IAM, Lex, SQS, DynamoDB, S3"
 collection: portfolio
 header:
   teaser: "/assets/images/cc_1.png"
