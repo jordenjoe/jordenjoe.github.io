@@ -5,6 +5,12 @@ var store = [{
         "url": "/projects/ai_1/",
         "teaser": "/assets/images/ai_4.png"
       },{
+        "title": "Cloud Computing: AWS Restaurant Recommending Chatbot",
+        "excerpt":"Created a chatbot which uses Yelp data to recommend restaurants to users based on their requirements. It was my first time using AWS. Chatbox is now disabled since running the services cost $, but there’s a video showing functionality below! Github repo Tech: AWS Lambda (Python), IAM, Lex, SQS, DynamoDB,...","categories": [],
+        "tags": [],
+        "url": "/projects/cc_1/",
+        "teaser": "/assets/images/cc_1.png"
+      },{
         "title": "Analyst Projects: Domain Upgrades, Reporting Projects, SSRS Conversions",
         "excerpt":"XTO to UPST Domain Upgrade Project was implementing a model for hosting both UPST and XOM users on the application using a system of staging databases and the software that populates each set based on who is leaving/joining the company based on what AD groups they are on. Tasks I...","categories": [],
         "tags": [],
