@@ -21,6 +21,9 @@ Worked with Hikaru Ikebe.
 
  <figure>
 	<img src='/assets/images/cc_2.png'>
-	<figcaption>Emailed recommendation.</figcaption>
+	<figcaption>Emailed recommendation (per spec).</figcaption>
 </figure>
- 
+ <figure>
+	<img src='/assets/images/cc_3.png'>
+	<figcaption>Architecture diagram.</figcaption>
+</figure>
