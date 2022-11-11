@@ -6,7 +6,7 @@ var store = [{
         "teaser": "/assets/images/cc_1.png"
       },{
         "title": "Cloud Computing: AWS Photo Manager",
-        "excerpt":"Created a photo album web application that can be searched using AWS’s Transcribe NLP (through both text and voice). Lex disambiguates the query. Query your photos for people, objects, actions, landmarks and more. You can add custom labels to identify your photos with your own indexes. Chatbox is now disabled...","categories": [],
+        "excerpt":"Created a photo album web application that can be searched using AWS’s Transcribe NLP (through both text and voice). Lex disambiguates the query. Query your photos for people, objects, actions, landmarks and more. You can add custom labels to identify your photos with your own indexes. As you can see...","categories": [],
         "tags": [],
         "url": "/projects/1cc_2/",
         "teaser": "/assets/images/cc_4.png"
