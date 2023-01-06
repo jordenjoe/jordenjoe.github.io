@@ -9,12 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Jorden Jolley. I am currently a student at Columbia University getting an [MS in Computer Science](https://www.cs.columbia.edu/education/ms/) in the [Software Systems track](https://www.cs.columbia.edu/education/ms/softwareSystems). Previously, I completed the [CS@CU MS Bridge Program.](https://www.cs.columbia.edu/ms-bridge/). I will graduate in winter 2023. I am currently seeking software engineering internships for summer 2023.
+Welcome! My name is Jorden Jolley. I am currently a student at Columbia University getting an [MS in Computer Science](https://www.cs.columbia.edu/education/ms/) in the [Software Systems track](https://www.cs.columbia.edu/education/ms/softwareSystems). Previously, I completed the [CS@CU MS Bridge Program](https://www.cs.columbia.edu/ms-bridge/). I will graduate in winter 2023. I am currently seeking software engineering internships for summer 2023.
 
 
 Background 
 =====
-I was born and raised in Arlington, Texas.
 In 2018, I graduated from the University of Texas at Austin with a BBA in [Management Information Systems](https://www.mccombs.utexas.edu/faculty-and-research/departments/irom/degree-programs/undergraduate/mis/). My goal is to create clean, data-driven software that serves people and makes their lives better; I am an engineer with a collaborative spirit who knows how to communicate with my teams.
 <br>
 During my time in college, I worked at [Girls Who Code](https://girlswhocode.com/) for two summers on the teaching team.
