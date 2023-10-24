@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Jorden Jolley. I am currently a student at Columbia University getting an [MS in Computer Science](https://www.cs.columbia.edu/education/ms/) in the [Software Systems track](https://www.cs.columbia.edu/education/ms/softwareSystems). Previously, I completed the [CS@CU MS Bridge Program](https://www.cs.columbia.edu/ms-bridge/). I will graduate in winter 2023. I am currently seeking software engineering internships for summer 2023.
+Welcome! My name is Jorden Jolley. I am currently a student at Columbia University getting an [MS in Computer Science](https://www.cs.columbia.edu/education/ms/) in the [Software Systems track](https://www.cs.columbia.edu/education/ms/softwareSystems). Previously, I completed the [CS@CU MS Bridge Program](https://www.cs.columbia.edu/ms-bridge/). I will graduate in winter 2023. I am currently seeking a full-time software engineering role.
 
 
 Background 
@@ -26,5 +26,7 @@ I desired a way to pivot out of my current industry, role, and location, and gra
 I quit my job in order to continue to deepen my technical knowledge and broaden my CS skills through a more formal program.
 <br>
 
-Bridging the gender gap in STEM is one of my passions; I came back to GWC this summer (2022) as a teacher and taught over 100 high school girls programming throughout the summer!
+Bridging the gender gap in STEM is one of my passions; I worked at Girls Who Code as a teacher and taught over 100 high school girls programming throughout the summer 2022!
 <br>
+
+Most recently, I worked as a software engineering intern on the Webkiosk Enrollments team at CLEAR, where I worked on a React devtools application.
