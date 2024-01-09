@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Jorden Jolley. I am currently a student at Columbia University getting an [MS in Computer Science](https://www.cs.columbia.edu/education/ms/) in the [Software Systems track](https://www.cs.columbia.edu/education/ms/softwareSystems). Previously, I completed the [CS@CU MS Bridge Program](https://www.cs.columbia.edu/ms-bridge/). I will graduate in winter 2023. I am currently seeking a full-time software engineering role.
+Welcome! My name is Jorden Jolley. I am currently a student at Columbia University getting an [MS in Computer Science](https://www.cs.columbia.edu/education/ms/) in the [Software Systems track](https://www.cs.columbia.edu/education/ms/softwareSystems). Previously, I completed the [CS@CU MS Bridge Program](https://www.cs.columbia.edu/ms-bridge/). I graduated in winter 2023. I am currently seeking a full-time software engineering role.
 
 
 Background 

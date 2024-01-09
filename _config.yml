@@ -18,7 +18,6 @@ name                     : &name "Jorden Jolley"
 email: jorden.jolley@gmail.com
 description: &description # this means to ignore newlines until "baseurl:"
   Jorden Jolley's software engineering portfolio.
-twitter_username: JordenJolley
 repository: "jordenjolley.github.io"
 github_username: jordenjoe
 minimal_mistakes_skin: dark
