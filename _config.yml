@@ -62,7 +62,7 @@ author:
   name   : "Jorden Jolley"
   avatar : "/assets/images/bio-photo.jpg"
   location: "New York, New York, USA"
-  bio    : "MS Computer Science Bridge student at Columbia University."
+  bio    : "MS Computer Science student at Columbia University."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
